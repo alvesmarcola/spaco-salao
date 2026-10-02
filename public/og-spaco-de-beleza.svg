@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f3ebe5"/>
+  <circle cx="905" cy="310" r="225" fill="#d9afa1"/>
+  <circle cx="905" cy="310" r="178" fill="none" stroke="#fff4e1" stroke-opacity=".7"/>
+  <circle cx="905" cy="310" r="205" fill="none" stroke="#fff4e1" stroke-opacity=".3"/>
+  <path d="M905 194c-42 58-42 174 0 232 42-58 42-174 0-232Zm0 0c58 42 116 100 116 116s-58 74-116 116m0-232c-58 42-116 100-116 116s58 74 116 116" fill="none" stroke="#fff4e1" stroke-width="2"/>
+  <circle cx="905" cy="310" r="14" fill="#b79a70"/>
+  <text x="115" y="270" fill="#a8675e" font-family="Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="8">BELEZA E BEM-ESTAR · CANELA, RS</text>
+  <text x="105" y="370" fill="#302825" font-family="Georgia,serif" font-size="78">Spaço de Beleza</text>
+  <text x="115" y="425" fill="#71665f" font-family="Arial,sans-serif" font-size="25">Seu momento de cuidado no coração de Canela</text>
+</svg>
